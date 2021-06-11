@@ -10,8 +10,8 @@ Postgres Version >= 13.2
 Install Git and handle make sure your local repo and the remote repository is synced  
 ##### Coding practices  
 Use Python anywhere you can, C++ anywhere you need to.  
-*TODO ADD DB PREF.*
-Python formatting: [Pep8 Style](https://www.python.org/dev/peps/pep-0008/)  
+*TODO ADD DB PREF.*  
+Python formatting: [Pep8 Style](https://www.python.org/dev/peps/pep-0008/)   
 C++ formatting: [Google Style Guide](https://google.github.io/styleguide/cppguide.html)  
 
 ## Contributors
