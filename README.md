@@ -6,6 +6,7 @@ Python Version >= 3.6
 Postgres Version >= 13.2  
 
 ## Contributors
+
 @NickCaravias
 > Nick Caravias  
 > nick.carvias@gmail.com   
@@ -17,3 +18,6 @@ Postgres Version >= 13.2
 
 
 ## Repository Overview  
+
+
+Copyright © 2020 Geofabrica Inc - All Rights Reserved. 
